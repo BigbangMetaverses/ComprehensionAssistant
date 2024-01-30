@@ -2,4 +2,4 @@
 
 1. Upload the articles or a series of articles to get the machine to help to understand the content
 
-2. Studnet can at this stage just type in questions to have the content from the book
+2. Learners can at this stage just type in the question to have the content from the docs
